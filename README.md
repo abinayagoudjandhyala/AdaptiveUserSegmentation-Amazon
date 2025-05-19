@@ -8,6 +8,9 @@ The application provides an interactive web interface built with **Gradio** to i
 
 ---
 
+🌐 **Direct App Link** : [Open App](https://abinayagoudjandhyala23-usersegmentation.hf.space)
+
+---
 ## Features
 
 * **Segmentation:** Groups Amazon users into 4 distinct clusters based on behavioral data.
